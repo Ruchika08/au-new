@@ -1,3 +1,5 @@
 This is the first one!
 Welcome to AU. Hola!
 bug fix
+Welcome to AU. Hola! Merge with master
+extra_feature
